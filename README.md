@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/libertyisrequired">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=libertyisrequired&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libertyisrequired&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libertyisrequired&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## 
@@ -23,6 +23,5 @@
   <a href = "mailto:contactfeliperod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-rodrigues-nunes-838b6523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br>
-  ![Snake animation](https://github.com/libertyisrequired/libertyisrequired/blob/output/github-contribution-grid-snake.svg)
  
 </div>
