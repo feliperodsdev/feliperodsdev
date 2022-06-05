@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Felipe Rodrigues 
 - 🔭 Estudando para trabalhar com Back-End ; )
 - 🌱 Estudando Python e Banco de Dados
+- 💻 Gosto de programação competitiva! Perfil Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/572600)
 <div align="center">
   <a href="https://github.com/libertyisrequired">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=libertyisrequired&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
