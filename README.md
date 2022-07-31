@@ -2,6 +2,7 @@
 - 🔭 Estudando para trabalhar com Back-End ; )
 - 🌱 Estudando Python e Banco de Dados
 - 💻 Gosto de programação competitiva! Perfil Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/572600)
+
 <div align="center">
   <a href="https://github.com/libertyisrequired">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=libertyisrequired&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,7 +22,7 @@
     <br>
   <a href="https://www.instagram.com/itsfelipexd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contactfeliperod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-rodrigues-nunes-838b6523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/feliperoddev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br>
  
 </div>
