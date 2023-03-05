@@ -1,5 +1,6 @@
 ### Olá! Meu nome é Felipe Rodrigues 
 
+- Desde sempre apaixonado por tecnologia! 
 - 💻 Gosto de programação competitiva! Perfil Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/572600)
 - Primeiro projeto que fiz Deploy -> Todolist (https://frontend-todolist-one.vercel.app/)
 
